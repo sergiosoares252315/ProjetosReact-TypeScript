@@ -4,6 +4,8 @@
 /node_modules
 /11_react_com_ts/node_modules
 /12_todo_react/node_modules
+/13_movies_lib/movies_lib/node_modules
+/13_movies_lib/movies_lib/node_modules
 /.pnp
 .pnp.js
 
